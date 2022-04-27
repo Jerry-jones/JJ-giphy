@@ -15,18 +15,18 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 #### GitHub Set-Up
 
 - [x] Go to the repository
-- [ ] Fork this repository to your Github account and import to a new workspace
-- [ ] Submit your website using the link on the Agenda
+- [x] Fork this repository to your Github account and import to a new workspace
+- [x] Submit your website using the link on the Agenda
 
 #### Starter Code
 
-- [ ] Read through the HTML starter code to understand the organization and class names given.
-- [ ] Go to the API request URL [here](https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=tTVMCPwEb1NapUWHla1pBNt4jKlfEqo1) to see how the API request is set up.
+- [x] Read through the HTML starter code to understand the organization and class names given.
+- [x] Go to the API request URL [here](https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=tTVMCPwEb1NapUWHla1pBNt4jKlfEqo1) to see how the API request is set up.
 
 ### Day 1 Goal 2: Write a fetch request to the API
 
-- [ ] Declare a variable that stores the following API request URL: https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=tTVMCPwEb1NapUWHla1pBNt4jKlfEqo1
-- [ ] Write the fetch request that logs the entire API request to the console
+- [x] Declare a variable that stores the following API request URL: https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=tTVMCPwEb1NapUWHla1pBNt4jKlfEqo1
+- [x] Write the fetch request that logs the entire API request to the console
 
 ### Day 1 Goal 3: Navigate the API request to return a gif
 
